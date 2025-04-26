@@ -31,7 +31,7 @@ Just a fun personal experiment to build awareness about my screen time. 📱
 
 - **Trigger:** Application Launched → Select Instagram.
 - **Action Flow:**
-  - Wait 5 seconds
+  - Wait 15 minutes
   - If (App in Foreground = Instagram)
     - HTTP Request (POST) → Send a request to your n8n webhook URL  
       (example: `https://your-ngrok-url/webhook/instagram-doomscroll`)
