@@ -74,8 +74,14 @@ Just a fun personal experiment to build awareness about my screen time. 📱
 - If you're hosting n8n locally, use **ngrok** to expose your local server for MacroDroid to hit the webhook URL.
 - You can customize the message content to randomize between multiple GIFs, motivational texts, or memes.
 - Be careful with webhook security if making it public.
+![WhatsApp Image 2025-04-26 at 19 39 21_3d414d6a](https://github.com/user-attachments/assets/e16f3a2f-8906-4130-bccc-1351525041ca)
 
 ---
+ScreenShots:![WhatsApp Image 2025-04-26 at 19 39 22_85c5d51f](https://github.com/user-attachments/assets/7be75017-5ba2-4f1e-bcc5-fde932a5d41f)
+
+![WhatsApp Image 2025-04-26 at 19 45 53_b6e51bfa](https://github.com/user-attachments/assets/d24d42de-a5fe-4e37-b250-db2b9885db71)![Screenshot 2025-04-26 193633](https://github.com/user-attachments/assets/a2e74b01-d615-4f35-9441-fb08b10d0538)
+
+
 
 ## Why I Made This
 
