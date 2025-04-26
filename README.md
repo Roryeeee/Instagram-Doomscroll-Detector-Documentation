@@ -10,7 +10,7 @@ Just a fun personal experiment to build awareness about my screen time. 📱
 ## How It Works
 
 - **MacroDroid** detects when Instagram is launched on my phone.
-- After a 5-second delay (to avoid false positives), it checks if Instagram is still in the foreground.
+- After a 15-minutes delay, it checks if Instagram is still in the foreground.
 - If yes, **MacroDroid** sends an HTTP POST request (Webhook) to an **n8n** workflow URL.
 - **n8n** checks the incoming webhook, processes the request, and sends a random GIF/message to me via a **Telegram Bot**.
 
@@ -38,7 +38,7 @@ Just a fun personal experiment to build awareness about my screen time. 📱
   - End If
 
 > **Note:**  
-> Use the "Wait 5 seconds" action to avoid sending false signals if you accidentally open and close Instagram quickly.
+> Use the "Wait 15 minutes" action to avoid sending false signals if you accidentally open and close Instagram quickly.
 
 ---
 
